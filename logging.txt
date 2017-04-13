@@ -1,0 +1,2 @@
+Apr 13, 2017 9:57:10 AM HomeStore run
+INFO: Clientul 1 a fost servit la casa 0 a sosit la 1 a asteptat 0 a terminat la 5 si a stat la casa 5    secunda 6
