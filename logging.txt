@@ -1,2 +1,24 @@
 Apr 13, 2017 9:57:10 AM HomeStore run
 INFO: Clientul 1 a fost servit la casa 0 a sosit la 1 a asteptat 0 a terminat la 5 si a stat la casa 5    secunda 6
+Apr 13, 2017 2:37:41 PM HomeStore run
+INFO: Clientul 1 a fost servit la casa 0 a sosit la 1 a asteptat 0 a terminat la 7 si a stat la casa 7    secunda 8
+Apr 13, 2017 2:37:43 PM HomeStore run
+INFO: Clientul 3 a fost servit la casa 1 a sosit la 3 a asteptat 0 a terminat la 5 si a stat la casa 5    secunda 8
+Apr 13, 2017 2:37:45 PM HomeStore run
+INFO: Clientul 5 a fost servit la casa 2 a sosit la 5 a asteptat 0 a terminat la 8 si a stat la casa 8    secunda 13
+Apr 13, 2017 2:37:47 PM HomeStore run
+INFO: Clientul 7 a fost servit la casa 1 a sosit la 7 a asteptat 1 a terminat la 8 si a stat la casa 7    secunda 15
+Apr 13, 2017 2:37:49 PM HomeStore run
+INFO: Clientul 9 a fost servit la casa 0 a sosit la 9 a asteptat 0 a terminat la 6 si a stat la casa 6    secunda 15
+Apr 13, 2017 2:37:51 PM HomeStore run
+INFO: Clientul 11 a fost servit la casa 2 a sosit la 11 a asteptat 2 a terminat la 9 si a stat la casa 7    secunda 20
+Apr 13, 2017 2:37:53 PM HomeStore run
+INFO: Clientul 13 a fost servit la casa 1 a sosit la 13 a asteptat 2 a terminat la 7 si a stat la casa 5    secunda 20
+Apr 13, 2017 2:37:55 PM HomeStore run
+INFO: Clientul 15 a fost servit la casa 0 a sosit la 15 a asteptat 0 a terminat la 6 si a stat la casa 6    secunda 21
+Apr 13, 2017 2:37:57 PM HomeStore run
+INFO: Clientul 17 a fost servit la casa 2 a sosit la 17 a asteptat 3 a terminat la 11 si a stat la casa 8    secunda 28
+Apr 13, 2017 2:37:59 PM HomeStore run
+INFO: Clientul 19 a fost servit la casa 1 a sosit la 19 a asteptat 1 a terminat la 8 si a stat la casa 7    secunda 27
+Apr 13, 2017 2:38:33 PM HomeStore run
+INFO: Clientul 1 a fost servit la casa 0 a sosit la 1 a asteptat 0 a terminat la 8 si a stat la casa 8    secunda 9
